@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlvssyaswanth" alt="mlvssyaswanth" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to contact me **ymlvss@gmail.com**
 
