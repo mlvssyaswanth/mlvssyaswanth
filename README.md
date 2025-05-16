@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 📫 How to reach me **ymlvss@gmail.com**
+- 📫 How to contact me **ymlvss@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
