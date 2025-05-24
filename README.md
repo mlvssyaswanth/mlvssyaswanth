@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently working on FastAPI.
-Eager to learn new tech trends.
+I'm currently working on FastAPI,
+Eager to learn new tech trends,
 Full stack Developer and Data scientist from Hyderabad.
 
 ## 🌐 Socials:
