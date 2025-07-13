@@ -1,5 +1,5 @@
 # Hey 👋🏻
-# Welcome to my World of Tech😉
+# Welcome to my corner in this world 😉
 
 #  About Me:
 🔭 I'm currently working on FastAPI<br>🌱 I'm currently learning Azure<br>🤝 I'm ready to collaborate on AI, ML, Full Stack Development
