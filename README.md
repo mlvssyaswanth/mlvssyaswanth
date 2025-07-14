@@ -2,7 +2,7 @@
 # Welcome to the code chaos!
 
 #  About Me:
-🔭 I'm currently working on FastAPI<br>🌱 I'm currently learning Azure<br>🤝 I'm ready to collaborate on AI, ML, Full Stack Development
+🔭 I'm currently working on FastAPI<br>🌱 I'm currently learning Azure<br>🤝 I'm ready to collaborate on AI, ML, Full Stack Development<br> 🌐Always open to network
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mlvss_yaswanth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaswanthmlvss/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ymlvssclgprps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ymlvss@gmail.com) 
