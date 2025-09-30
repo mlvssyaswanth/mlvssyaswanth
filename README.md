@@ -2,13 +2,15 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Yaswanth**
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=0a75ad&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Cloud+%7C+SaaS+Builder;Always+Learning+%26+Building" alt="Typing SVG" />
+<!-- Animated Background Intro -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0a75ad&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Yaswanth;Full-Stack+Developer+|+AI+%26+ML+Enthusiast;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
+</h1>
 
 ---
 
-### 🎨 Fun & Cute Dev Animation
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Cute Coding Toy" />
+<!-- Cute Toy Coding Animation -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cute Coding Toy" />
 
 ---
 
@@ -21,52 +23,41 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools (Logos Only)
 
 <div align="center">
 
-### 🔹 Core Development
+<!-- Core Dev -->
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
 </p>
 
-### 🔹 Cloud
+<!-- Cloud -->
 <p>
-<img src="https://img.shields.io/badge/AWS-007FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-007FFF?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="GCP"/>
 </p>
 
-### 🔹 AI / LLM
+<!-- AI / LLM -->
 <p>
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-FFD700?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Mistral-FF3366?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT%2C_LLaMA%2C_Mixtral-0088CC?style=for-the-badge&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="50" title="Transformers"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" title="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
 </p>
 
-### 🔹 Databases
+<!-- Databases -->
 <p>
-<img src="https://img.shields.io/badge/Pinecone-3399FF?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Weaviate-FF5722?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-007FFF?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-007FFF?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-007FFF?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### 🔹 Practices
-<p>
-<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Fine-tuning-4CAF50?style=for-the-badge&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
 </p>
 
 </div>
