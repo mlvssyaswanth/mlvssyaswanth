@@ -3,9 +3,10 @@
 <div align="center">
 
 <!-- Animated Background Intro -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0a75ad&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Yaswanth;Full-Stack+Developer+|+AI+%26+ML+Enthusiast;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=0a75ad&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Yaswanth;Full-Stack+Developement+Enthusiast;AI+%26+ML+Engineer" alt="Gradient Typing"/>
 </h1>
+
 
 ---
 
