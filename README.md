@@ -1,99 +1,97 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Yaswanth%20MLVSS&fontAlign=50&fontAlignY=40&color=gradient&desc=AI%20%7C%20Fullstack%20%7C%20Cloud&descAlign=50&descAlignY=65" alt="header"/>
-</p>
+<!-- Profile README for mlvssyaswanth -->
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Explorer+%7C+Azure+AWS+GCP;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
-</p>
+<div align="center">
+
+# 👋 Hey, I’m **Yaswanth**  
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70059&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Cloud+%7C+SaaS+Builder;Always+Learning+%26+Building" alt="Typing SVG" />
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working on **FastAPI projects**
-- 🌱 Diving into **Azure & Cloud Tech**
-- 🤝 Open for **AI/ML & Full Stack collaborations**
-- 🌐 Love networking & exchanging ideas  
+### 🎬 Featured Animation  
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Coding Meme"/>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/mlvss_yaswanth/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/yaswanthmlvss/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://medium.com/@ymlvssclgprps"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:ymlvss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-</p>
+## ⚡ About Me
+- 💻 Passionate **Developer & Problem Solver**
+- 🚀 Building SaaS products for the **Indian Market**
+- ☁️ Exploring **Cloud, AI, ML, and NLP**
+- 📚 Always **experimenting, learning, innovating**
 
 ---
 
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,nextjs,nodejs,flutter,java,js,html,css,tailwind,express,flask,mysql,postgres,mongodb,firebase,aws,azure,gcp,docker,figma,git,github,pytorch,tensorflow" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔹 Core Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔹 AI/ML & LLMs
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFD700?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF3366?style=for-the-badge&logoColor=white)
+![Generative Models](https://img.shields.io/badge/Generative_Models-GPT%2C_LLaMA%2C_Mixtral-0088CC?style=for-the-badge&logoColor=white)
+
+### 🔹 Databases & RAG
+![Pinecone](https://img.shields.io/badge/Pinecone-3399FF?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF5722?style=for-the-badge&logoColor=white)
+
+### 🔹 Practices
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine_tuning-4CAF50?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlvssyaswanth&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=mlvssyaswanth&theme=radical&hide_border=true" height="160"/>
-</p>
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlvssyaswanth&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=mlvssyaswanth&theme=radical&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlvssyaswanth&show_icons=true&theme=radical&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlvssyaswanth&layout=compact&theme=radical&hide_border=true)
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mlvssyaswanth&theme=onestar&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+</div>
 
 ---
 
-## ✨ Featured Animations
-<p align="center">
-  <!-- Rocket -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" alt="Rocket"/>
+## ✨ Programming Quotes (Animated)
 
-  <!-- Coder -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding"/>
+<div align="center">
 
-  <!-- Hacker Matrix -->
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="180" alt="Matrix"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;“First,+solve+the+problem.+Then,+write+the+code.”+-+John+Johnson" alt="Quotes Animation" />
+
+</div>
 
 ---
 
-## 🔮 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
+## 🤝 Let’s Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mlvssyaswanth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+</div>
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlvssyaswanth&bg_color=1a1b27&color=9e4c98&line=38bdae&point=ffffff&area=true&hide_border=true" />
-</p>
+⭐️ From [mlvssyaswanth](https://github.com/mlvssyaswanth)
 
----
-
-<details>
-  <summary>⚡ Fun Fact</summary>
-  <p align="center">⚡ I can turn coffee ☕ into code faster than a compiler throws errors 😆</p>
-</details>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlvssyaswanth&label=Profile%20Views&color=ff69b4&style=flat" alt="views"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
+</div>
