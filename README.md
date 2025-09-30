@@ -1,32 +1,34 @@
-<!-- Banner -->
-<h1 align="center">Hey 👋🏻, I'm Yaswanth</h1>
-<h3 align="center">Welcome to my code chaos! 💻✨</h3>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;FastAPI+%7C+Next.js+%7C+Azure+%7C+AWS;Open+to+Collaborations+%26+Networking" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Yaswanth%20MLVSS&fontAlign=50&fontAlignY=40&color=gradient&desc=AI%20%7C%20Fullstack%20%7C%20Cloud&descAlign=50&descAlignY=65" alt="header"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Explorer+%7C+Azure+AWS+GCP;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently working on **FastAPI**
-- 🌱 Learning **Azure & Cloud Technologies**
-- 🤝 Open to collaborate on **AI, ML, and Full Stack Development**
-- 🌐 Always open to networking & new opportunities  
+## 👨‍💻 About Me
+- 🔭 Working on **FastAPI projects**
+- 🌱 Diving into **Azure & Cloud Tech**
+- 🤝 Open for **AI/ML & Full Stack collaborations**
+- 🌐 Love networking & exchanging ideas  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/mlvss_yaswanth/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yaswanthmlvss/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@ymlvssclgprps"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:ymlvss@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mlvss_yaswanth/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/yaswanthmlvss/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://medium.com/@ymlvssclgprps"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:ymlvss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,nextjs,nodejs,flutter,java,js,html,css,tailwind,express,flask,mysql,postgres,mongodb,firebase,aws,azure,gcp,docker,figma,git,github,pytorch,tensorflow" />
 </p>
@@ -35,51 +37,63 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlvssyaswanth&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlvssyaswanth&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mlvssyaswanth&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mlvssyaswanth&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mlvssyaswanth&theme=tokyonight&border_radius=6" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mlvssyaswanth&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlvssyaswanth&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## ✍️ Dev Quotes
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mlvssyaswanth&theme=onestar&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-## 🎬 Fun Animations
+## ✨ Featured Animations
 <p align="center">
-  <!-- Animated Rocket -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Rocket Animation"/>
-  
-  <!-- Coder at Work -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation"/>
+  <!-- Rocket -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" alt="Rocket"/>
 
-  <!-- Loading Progress Bar -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&width=435&lines=Building+Projects...;Learning+New+Things...;Improving+Everyday..." alt="Loading Animation"/>
+  <!-- Coder -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding"/>
+
+  <!-- Hacker Matrix -->
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="180" alt="Matrix"/>
 </p>
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🔮 Random Dev Quote
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mlvssyaswanth&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ---
 
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlvssyaswanth&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlvssyaswanth&bg_color=1a1b27&color=9e4c98&line=38bdae&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+<details>
+  <summary>⚡ Fun Fact</summary>
+  <p align="center">⚡ I can turn coffee ☕ into code faster than a compiler throws errors 😆</p>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mlvssyaswanth&label=Profile%20Views&color=ff69b4&style=flat" alt="views"/>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
