@@ -2,16 +2,17 @@
 
 <div align="center">
 
-<!-- Animated Background Intro -->
+<!-- Animated Gradient Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=0a75ad&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Yaswanth;Full-Stack+Developement+Enthusiast;AI+%26+ML+Engineer" alt="Gradient Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=0a75ad&width=800&lines=👋+Hey,+I'm+Yaswanth;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Animated Intro" />
 </h1>
-
 
 ---
 
-<!-- Cute Toy Coding Animation -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cute Coding Toy" />
+<!-- Featured Animation: Cute Toy Coding -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Cute Toy Coding" />
+</p>
 
 ---
 
@@ -65,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity (Blue Theme)
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=mlvssyaswanth&theme=blueberry&hide_border=true)
@@ -75,7 +76,7 @@
 
 ---
 
-## ✨ Programming Quotes (Animated)
+## ✨ Programming Quotes
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0a75ad&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;“First,+solve+the+problem.+Then,+write+the+code.”+-+John+Johnson" alt="Quotes Animation" />
 </div>
