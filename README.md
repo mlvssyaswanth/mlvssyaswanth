@@ -28,17 +28,6 @@ I enjoy exploring new technologies, solving real-world problems, and contributin
 ---
 
 <h2 align="center">🔥 Fun Side of Programming</h2>
-<p align="center">
-💡 Sarcastic Joke #1: <br>
-<i>"Documentation is like sex: when it’s good, it’s very, very good; and when it’s bad, it’s better than nothing."</i>
-</p>
-
-<p align="center">
-💡 Sarcastic Joke #2: <br>
-<i>"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."</i>
-</p>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
