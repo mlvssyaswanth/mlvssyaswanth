@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-family: Trebuchet MS, sans-serif; font-size: 32px; font-weight: bold; color:#6A5ACD;">Hello, I'm Yaswanth 👋</span>
+  <span style="font-family: Trebuchet MS, sans-serif; font-size: 50px; font-weight: bold; color:#6A5ACD;">Hello, I'm Yaswanth 👋</span>
 </div>
 
 > 💻 **AI/ML Engineer & Cloud Enthusiast**<br>
@@ -14,12 +14,6 @@
 🌱 I'm currently expanding my expertise with **Microsoft Azure** services and cloud architecture.<br>
 🤝 Always open to connect and collaborate on projects in **AI/ML**, **Full Stack Development**, and **Cloud Solutions**.<br>
 💡 Let's build something great together!
-
----
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/mlvssyaswanth?style=for-the-badge&logo=wave&label=✨%20Portfolio%20Wave%20Divider%20✨&color=4B0082&logoColor=8A2BE2" alt="Animated Wave Divider">
-</p>
 
 ## 💻 Tech Stack & Tools
 
