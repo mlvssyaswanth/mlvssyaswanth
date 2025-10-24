@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-family: Trebuchet MS, sans-serif; font-size: 50px; font-weight: bold; color:#6A5ACD;">Hello, I'm Yaswanth 👋</span>
+  <span style="font-family: Trebuchet MS, sans-serif; font-size: 100px; font-weight: bold; color:#6A5ACD;">Hello, I'm Yaswanth 👋</span>
 </div>
 
 > 💻 **AI/ML Engineer & Cloud Enthusiast**<br>
