@@ -12,7 +12,7 @@
 
 🔭 I'm a passionate developer focused on **API development with FastAPI** and exploring the cloud landscape.<br>
 🌱 I'm currently expanding my expertise with **Microsoft Azure** services and cloud architecture.<br>
-🤝 Always open to connect and collaborate on projects in **AI/ML**, **Full Stack Development**, and **Cloud Solutions**.<br>
+🤝 Always open to connect, collaborate and open for full time roles in **AI/ML**, **Full Stack Development**, and **Cloud Solutions**.<br>
 💡 Let's build something great together!
 
 ## 💻 Tech Stack & Tools
