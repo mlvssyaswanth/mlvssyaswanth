@@ -4,7 +4,7 @@
 
 > 💻 **AI/ML Engineer & Cloud Enthusiast**<br>
 > 🔗 **Backend Focus:** Building Applications using FastAPI and Flask<br>
-> 💡 **Specialty:** Full Stack Development
+> 💡 **Specialty:** AI/ML and Full Stack Development
 
 ---
 
