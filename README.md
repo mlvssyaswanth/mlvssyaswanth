@@ -19,7 +19,7 @@
 
 A snapshot of the technologies I work with:
 
-### 🌐 Core Expertise (Interactive Icons)
+### 🌐 Expertise
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,azure,react,tensorflow,docker,vscode,git,github,prisma,mongodb,postgresql" alt="Core Skills" />
 </p>
