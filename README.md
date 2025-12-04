@@ -21,7 +21,7 @@ A snapshot of the technologies I work with:
 
 ### 🌐 Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,azure,react,tensorflow,docker,vscode,git,github,prisma,mongodb,postgresql" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,azure,aws,react,tensorflow,vscode,git,github,postgresql" alt="Core Skills" />
 </p>
 
 ### Languages & Frameworks
