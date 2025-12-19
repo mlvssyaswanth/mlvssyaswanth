@@ -62,13 +62,13 @@ A snapshot of the technologies I work with:
 
 ### 🌟 Key Activity & Engagement
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mlvssyaswanth?style=for-the-badge&color=8A2BE2&label=Followers" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/mlvssyaswanth?style=for-the-badge&color=8A2BE2&label=Followers" alt="GitHub Followers"><br>
   <img src="https://img.shields.io/github/commit-activity/w/mlvssyaswanth/mlvssyaswanth?style=for-the-badge&color=6A5ACD&label=Commits%20(Last%20Week)" alt="Commit Activity">
 </p>
 
 ### Contributions & Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlvssyaswanth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="Yaswanth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mlvssyaswanth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="Yaswanth's GitHub Stats" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=mlvssyaswanth&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
