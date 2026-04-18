@@ -72,10 +72,10 @@ A snapshot of the technologies I work with:
   <img src="https://github-profile-trophy.vercel.app/?username=mlvssyaswanth&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-### Weekly Development Activity
+<!--### Weekly Development Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlvssyaswanth&theme=dracula&hide_border=false&area=true&custom_title=My%20Development%20Activity" alt="GitHub Activity Graph" />
-</p>
+</p>-->
 
 ### 🗓️ Animated Contribution Calendar
 <p align="center">
